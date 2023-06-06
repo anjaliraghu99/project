@@ -1,0 +1,30 @@
+.container12{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(Hi.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 100%;
+    height: 92vh;
+    background-size: 100% 100%;
+
+}
+.loginform{
+    background-color: #ffffff;
+    width: 30%;
+    height: auto;
+    margin: 7% auto;
+    padding: 25px;
+}
+.form-label{
+    font-weight: bold;
+}
+.form-check-label{
+    font-weight: bold;
+}
+.form-label1{
+    width: 100%;
+    margin-top: 20px;
+    font-weight: bold;
+}
